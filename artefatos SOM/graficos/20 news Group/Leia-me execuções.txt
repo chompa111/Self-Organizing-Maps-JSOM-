@@ -1,0 +1,9 @@
+Separadas as melhores execuções
+
+binario:latice 10x10,vizinhaça buble,raio 2, tx 0.4,decaimento linear, 2000 epocas erro topologico 0.452
+
+TF:latice 8x8,vizinhaça gaussiana,raio 3, tx 0.5,decaimento linar, 1500 epocas erro topologico 0.25
+
+
+TF-idf:latice 10x10,vizinhaça gaussiana,raio 3, tx 0.5,decaimento linar, 2000 epocas erro topologico 0.31
+

@@ -1,0 +1,1 @@
+Para estas configurações a vizualização da matrizU e as demias indicou algumas regiões separadas com possivel diferença semantica que pudemos observar no Grafico de palavras associadas ao neuronio que havia realmente 3/4 temas distintos. 

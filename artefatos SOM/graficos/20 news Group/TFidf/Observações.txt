@@ -1,0 +1,2 @@
+Esta configuração apresentou o melhor resultado semantico observado no Grafico de 
+palavras associadas aos neuronios. 

@@ -1,0 +1,23 @@
+Esta implementacao foi feita pelo grupo e interitamente com o uso do Java.
+
+ a pasta SOM neste diretorio é um projeto feito no eclipse.
+dentro da pasta SOM voce econtrara a pasta "scr" onde estão os pacotes utilizados
+
+dentro de cada pacote estão as classes criadas, cada pacote ficou com uma 
+responsabilidade diferente.
+
+-pacote som: para abrigar as classes diretamentes ligadas ao funcionamento do SOM
+-pacote posProcess: pacote para abrigar as classes de vizualicações de pos porcessamento
+-pacote distancia: para os metodos de medição de distancia entre objetos
+-pacote qualidade: para os metodos de avaliacao de qualidade como distorção topologia
+-pacote inputdados: para os metodo de leitura de csv e criação das estruturas que
+ armazenam os dados
+
+Recomendo que a o primeiro pacote a ser visto seja o pacote som, e dentro dele a classe
+aprendizado seja vista primeiro.
+
+na classe aprendizado estão os metodos que são necessarios para treinar a rede e também
+está localizado o (metodo Main) com alguns exemplos de parametrização e execução 
+tanto para o iris quanto para o 20 news group.
+
+o codigo foi inteiramente escrito e comentado evitando o uso de acentos e do cedilha.

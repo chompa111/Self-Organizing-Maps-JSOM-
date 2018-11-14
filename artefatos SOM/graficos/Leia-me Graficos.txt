@@ -1,0 +1,11 @@
+Os graficos foram separados considerando as melhores execuções feitas.
+
+Temos os Graficos:
+
+-hitmap: contagem de quantas vezes cada neuronio foi BMU de um dado.
+-MatrizU com escala de cores ajustada relativa
+-Grafico de Dados associados: mostra na posicoes matriciais a quantos dados um neuronio
+é BMU depois da rede ja treinada
+-Grafico de Palavras: mostra para cada neuronio em sua posicao matricial as palavras em comum dentro dos textos(dados) dos quais aquele neuronio é BMU.
+-Grafico classificado: para cada neuronio em sua posição matricial exibe a classe
+de dados que esta associada a este neuronio.(informação externa)

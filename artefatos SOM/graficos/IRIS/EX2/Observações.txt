@@ -1,0 +1,1 @@
+com estas configurações foi possivel observar que existia mais do que dois grupos de flores, com a vizinhança gaussiana fpo possivel ver mais separações que foram confirmadas pelo htimap e o grafico de dados associados.

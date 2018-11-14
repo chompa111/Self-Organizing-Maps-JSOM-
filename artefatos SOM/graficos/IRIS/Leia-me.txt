@@ -1,0 +1,9 @@
+Ca estão as execuções mais interessantes feitas sob os dados do iris
+
+EX1: lattice 8x8 rectangular,bubble, tx:0.3, decaimento linear, raio 2, 300 épocas
+Ex2:latice 8x8 rectangular, gaussiana, tx: 0.4, decaimento linear,raio 2,150 épocas
+
+Erro topologico obtido:
+
+EX1:0.333
+EX2:0.324

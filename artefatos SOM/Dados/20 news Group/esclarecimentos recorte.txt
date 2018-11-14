@@ -1,0 +1,11 @@
+
+RECORTE:
+Foi reaproveitado o recorte low_idf  do 20 newsgroup de melhor desempenho no kmeans .
+a seleção de palavras foi feita com base no valor IDF.
+entretanto o numero de textos foi reduzido pegando apenas os temas relacionados a religiao esporte e ciencia com 600 textos.
+
+REPRESENTAÇÂO:
+a primeira linha contem todas as palavras dessa representação.
+cada linha seguinte representa um dado(texto) da seguinte maneire: id do texto seguido pelos valores de cada coordenada(palavra).
+
+foi rodado para as representações binaria, tf e tf-idf
